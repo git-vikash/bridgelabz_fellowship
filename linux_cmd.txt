@@ -1,0 +1,45 @@
+pwd=show directory from root directory like../home/bridgeit.
+
+ls= it gives all list of folder at that level..similar: ls -a
+
+cd Download= go to Download folder.
+
+cd Raspberry\Pi= use back salash is folder name in two parts. 
+
+cd .. = go back to earlier folder.  
+
+mkdir vk= make new folder as vk
+
+rmdir vk= remove folder if empty.
+
+rm -r vk=remove folder even have some content
+
+touch new.txt= create new.txt file
+
+echo hi all>>new.txt= write hi all to new.txt file
+
+cat /home/bridgeit/vk/new.txt= it display the content from given file.
+
+man cd=gives manual of cd command
+
+cd -help= give help about cd command
+
+cp new.txt file_location = copy from new.txt to given file location
+
+mv new.txt newer.txt=
+
+locate vikash= search for vikash in whole files
+
+df= show available disk space in each partition.df -m: show in megabytes
+
+hostname= gives network name.
+hostname -I=gives ip address of network.
+
+ping= to check your connection.
+ping google.com
+
+ctrl+C = stop any command safely.
+ctrl+Z= stop command forcefully.
+
+exit=exit the terminal.
+
